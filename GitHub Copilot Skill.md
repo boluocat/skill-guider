@@ -36,7 +36,7 @@ SKILL.md
 3. SKILL.md 推荐结构
 
 例如：
-```markdown
+```
 # API Review Skill
 
 ## Purpose
